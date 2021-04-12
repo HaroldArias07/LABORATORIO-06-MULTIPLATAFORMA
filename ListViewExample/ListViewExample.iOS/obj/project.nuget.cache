@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+u2DY2mtvDs4IaFX7y+SM2EkpO1DNVv2j0rgDi0VJnbNoyhph45G5CcjtPpV3mZlnZ5jRFyrc3qQ7uUrRneqLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yei_y\\source\\repos\\ListViewExample\\ListViewExample\\ListViewExample.iOS\\ListViewExample.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yei_y\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
